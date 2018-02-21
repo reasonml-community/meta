@@ -39,7 +39,7 @@ Repository | Maintainer
 [error-message-improvement](https://github.com/reasonml-community/error-message-improvement) | [@chenglou](https://github.com/chenglou)
 [Mareo](https://github.com/reasonml-community/Mareo) | [@chenglou](https://github.com/chenglou)
 meta | [@glennsl](https://github.com/glennsl)
-[reason-maze](https://github.com/reasonml-community/reason-maze) | [@chenglou](https://github.com/chenglou)
+[reason-maze](https://github.com/reasonml-community/reason-maze) | [@jaredly](https://github.com/jaredly)
 [reason-react-example](https://github.com/reasonml-community/reason-react-example) | [@chenglou](https://github.com/chenglou)
 [reason-react-hacker-news](https://github.com/reasonml-community/reason-react-hacker-news) | [@wyze](https://github.com/wyze)
 [reason-scripts](https://github.com/reasonml-community/reason-scripts) | [@rrdelaney](https://github.com/rrdelaney)
