@@ -33,7 +33,7 @@ Repository | Maintainer
 [bs-moment](https://github.com/reasonml-community/bs-moment) | [@grsabreu](https://github.com/grsabreu)
 [bs-node](https://github.com/reasonml-community/bs-node) | [@ncthbrt](https://github.com/ncthbrt)
 [bs-react-native](https://github.com/reasonml-community/bs-react-native) | [@arnarthor](https://github.com/arnarthor) 
-[bs-react-simple-maps](https://github.com/reasonml-community/react-simple-maps) | [@poeschko](https://github.com/poeschko)
+[bs-react-simple-maps](https://github.com/reasonml-community/bs-react-simple-maps) | [@poeschko](https://github.com/poeschko)
 [bs-react-test-renderer](https://github.com/reasonml-community/bs-react-test-renderer) | [@wyze](https://github.com/wyze)
 [bs-socket.io](https://github.com/reasonml-community/bs-socket.io) | [@bsansouci](https://github.com/bsansouci)
 [bs-transit-js](https://github.com/reasonml-community/bs-transit-js) | [@IwanKaramazow](https://github.com/iwankaramazow)
