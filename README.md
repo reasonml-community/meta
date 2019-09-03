@@ -8,7 +8,7 @@ These are the current rules, as decided on in [#1](https://github.com/reasonml-c
 
 * Every repository should have a single _responsible_ maintainer.
 * Maintainers volunteer, and are accepted if at least three (3) existing members agree.
-* The organization is made up of the maintainers. Any member that seizes to be a maintainer should therefore be removed.
+* The organization is made up of the maintainers. Any member that ceases to be a maintainer should be removed.
 * Decisions are made based on absolute majority vote. That is, if a majority of the members, present or not, have voted for a decision.
 * Decisions should ideally be reached via consensus, that is without dissent, but if that fails and a decision needs to be made an absolute majority vote decides.
 
