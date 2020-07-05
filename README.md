@@ -38,6 +38,7 @@ Repository | Maintainer
 [bs-socket.io](https://github.com/reasonml-community/bs-socket.io) | [@bsansouci](https://github.com/bsansouci)
 [bs-transit-js](https://github.com/reasonml-community/bs-transit-js) | [@IwanKaramazow](https://github.com/iwankaramazow)
 [bs-webapi-incubator](https://github.com/reasonml-community/bs-webapi-incubator) | [@yawaramin](https://github.com/yawaramin)
+[bsdoc](https://github.com/reasonml-community/bsdoc) | [@yawaramin](https://github.com/yawaramin)
 [error-message-improvement](https://github.com/reasonml-community/error-message-improvement) | [@chenglou](https://github.com/chenglou)
 [Mareo](https://github.com/reasonml-community/Mareo) | [@chenglou](https://github.com/chenglou)
 meta | [@glennsl](https://github.com/glennsl)
