@@ -28,7 +28,6 @@ Repository | Maintainer
 [bs-history](https://github.com/reasonml-community/bs-history) | [@Jimexist](https://github.com/jimexist)
 [bs-immutablejs](https://github.com/reasonml-community/bs-immutablejs) | [@chenglou](https://github.com/chenglou)
 [bs-leaflet](https://github.com/reasonml-community/bs-leaflet) | [@Jimexist](https://github.com/jimexist)
-[bs-loader](https://github.com/reasonml-community/bs-loader) | [@rrdelaney](https://github.com/rrdelaney)
 [bs-mocha](https://github.com/reasonml-community/bs-mocha) | [@Risto-Stevcev](https://github.com/risto-stevcev)
 [bs-moment](https://github.com/reasonml-community/bs-moment) | [@grsabreu](https://github.com/grsabreu)
 [bs-node](https://github.com/reasonml-community/bs-node) | [@ncthbrt](https://github.com/ncthbrt)
